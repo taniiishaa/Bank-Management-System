@@ -21,7 +21,7 @@ A complete desktop application prototype for banking administrators, covering us
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your-Repo-Link-Here]
+    git clone https://github.com/taniiishaa/Bank-Management-System
     cd BankingManagementSystem
     ```
 
