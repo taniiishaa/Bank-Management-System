@@ -1,0 +1,7 @@
+# Python Standard Libraries (Built-in)
+# This project uses only Python's standard library modules (tkinter, sqlite3, etc.)
+# No external dependencies are required.
+
+# If you were using any external libraries, they would be listed here, e.g.:
+# pandas==2.1.0
+# requests==2.31.0
